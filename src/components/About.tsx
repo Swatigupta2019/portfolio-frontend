@@ -75,7 +75,7 @@ const About = () => {
               <p className="text-lg text-gray-300 leading-relaxed">
               I'm a Software Engineer with a strong foundation in full-stack development. I’ve completed my B.E. in Computer Science with a specialization in AI & ML from Chandigarh University.
 
-I’ve worked with companies like Bobble AI, Devfrend Web Solutions, and Hatchnhack Solutions, building scalable and user-friendly web applications using React, Next.js, Node.js, and more.
+              I’ve worked with Collegedunia Web Pvt. Ltd., Bobble AI, and Hatchnhack Solutions, building scalable and user-friendly web applications using React, Next.js, Node.js, and more.
 
 I'm also skilled in web scraping, automation, and machine learning, with hands-on experience in real-world projects and dashboards.
               </p>

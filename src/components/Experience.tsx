@@ -22,43 +22,43 @@ const Experience: React.FC = () => {
 
   const experiences: ExperienceItem[] = [
     {
-      title: "Frontend Developer",
-      company: "Devfrend Web Solutions",
-      location: "Delhi, Haryana",
-      duration: "May 2025 – Present",
+      title: "Software Developer – Frontend",
+      company: "Collegedunia Web Pvt. Ltd.",
+      location: "Gurugram, Haryana",
+      duration: "July 2025 – Present",
       type: "Full-time",
       description: [
-        "Revamped client dashboards using React.js and Tailwind CSS, improving page load speed by 40% and reducing bounce rate by 30%",
-        "Enhanced cross-browser compatibility and mobile responsiveness, ensuring seamless UX across devices",
-        "Built responsive, pixel-perfect UIs using React.js and Tailwind CSS across multiple client projects"
+        "Redesigned the SSC Exams module UI in Next.js for Prep.in, improving discoverability across 500+ government exam test series and boosting user engagement by 20%",
+        "Improved Core Web Vitals by reducing page load time by 30% on high-traffic SEO exam pages through Next.js SSR and automated image optimization",
+        "Implemented Razorpay autopay on Prep+ and launched a trial-first subscription flow, expanding the subscription funnel and boosting revenue",
+        "Built dynamic UPSC mentorship course listings and enrollment pages with lead capture modules to drive student registrations",
+        "Developed the DotContext client dashboard from scratch for campaign management, AI pipeline monitoring, filtering, and CSV export"
       ],
-      technologies: ["React.js", "Tailwind CSS", "JavaScript", "HTML", "CSS"]
+      technologies: ["Next.js", "React.js", "Tailwind CSS", "TypeScript", "Razorpay", "SEO"]
     },
     {
       title: "Software Engineer Intern",
-      company: "Bobble Ai",
+      company: "Bobble AI",
       location: "Gurugram, Haryana", 
       duration: "May 2024 – May 2025",
       type: "Internship",
       description: [
-        "Built a cross-platform Firebase Debug Events Dashboard for real-time Android & iOS logs, improving debugging speed & accuracy",
-        "Created a Sticker Validation Dashboard in Next.js to streamline content review for annotators",
-        "Added unit tests and automated deployment with GitLab CI/CD for seamless builds and continuous integration",
-        "Developed and containerized a Go-based API using Clean Architecture for time and location-based sticker retrieval",
-        "Engineered end-to-end functionality for AI-powered task modules, including creation, retrieval, editing, and state management"
+        "Reduced developer debugging time by 25% by engineering a cross-platform Firebase Debug Events Dashboard for real-time Android and iOS logs",
+        "Created a Sticker Validation Dashboard in Next.js to streamline review workflows for 10,000+ sticker assets",
+        "Reduced sticker retrieval latency by 15% by architecting a Go-based REST API with Clean Architecture, GORM, and optimized SQL queries",
+        "Added unit tests and automated deployment with GitLab CI/CD for seamless builds and continuous integration"
       ],
       technologies: ["Next.js", "Go", "Firebase", "GitLab CI/CD", "Docker", "GORM", "Clean Architecture"]
     },
     {
       title: "Full Stack Developer Intern", 
       company: "Hatchnhack Solutions Pvt Ltd",
-      location: "Delhi, Haryana",
+      location: "Delhi",
       duration: "July 2023 – Sep 2023",
       type: "Internship",
       description: [
-        "Designed and developed a complete restaurant management system for an Australian client",
-        "Streamlined online orders, reservations, and table management functionality",
-        "Implemented responsive design ensuring optimal user experience across all devices"
+        "Built a full-stack restaurant management system for an Australian client, handling online orders, reservations, and table allocation for 100+ daily transactions",
+        "Implemented a role-based admin dashboard for order tracking, reservation management, and table allocation"
       ],
       technologies: ["React.js", "Node.js", "Express", "MongoDB", "JavaScript"]
     }

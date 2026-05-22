@@ -12,10 +12,10 @@ const Achievements = () => {
   const achievements = [
     {
       icon: Briefcase,
-      number: 2,
+      number: 1,
       suffix: '+',
-      title: 'Years Experience',
-      description: 'software development',
+      title: 'Frontend Developer',
+      description: 'professional experience',
       color: 'from-red-500 to-orange-500'
     },
     {
